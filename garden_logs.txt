@@ -1,0 +1,1278 @@
+Day Log: Day 1: simulation started.
+Day Log: Weather: Snowy
+Watering Log: Day 1: Plants watered.
+Heating Log: Day 1: Heating system activated.
+Day Log: Day 1: simulation completed.
+Day Log: Day 2: simulation started.
+Day Log: Weather: Sunny
+Watering Log: Day 2: Plants watered.
+Day Log: Day 2: Sprinklers activated for dry sunny weather.
+Day Log: Day 2: simulation completed.
+Day Log: Day 3: simulation started.
+Day Log: Weather: Snowy
+Watering Log: Day 3: Plants watered.
+Heating Log: Day 3: Heating system activated.
+Day Log: Day 3: simulation completed.
+Day Log: Day 4: simulation started.
+Day Log: Weather: Rainy
+Watering Log: Day 4: Plants watered.
+Day Log: Day 4: Plants received natural watering from rain.
+Day Log: Day 4: simulation completed.
+Day Log: Added plant: Rose at grid (7,4)
+Day Log: Day 5: simulation started.
+Day Log: Weather: Sunny
+Insect Log: Day 5: Pest attack by Spider on plant: Rose at grid (7,4)
+Watering Log: Day 5: Plants watered.
+Day Log: Day 5: Sprinklers activated for dry sunny weather.
+Day Log: Day 5: simulation completed.
+Fertilizer Log: Day 5: Skipped fertilizing Rose at grid (7,4). Days since last fertilized: 1. Frequency: 3
+Day Log: Added plant: Banana at grid (8,4)
+Day Log: Day 6: simulation started.
+Day Log: Weather: Cloudy
+Insect Log: Day 6: Beneficial insect Beetle found near plant: Rose at grid (7,4)
+Insect Log: Day 6: Beneficial insect Butterfly found near plant: Banana at grid (8,4)
+Watering Log: Day 6: Plants watered.
+Day Log: Day 6: Cloudy weather observed. No special actions taken.
+Day Log: Day 6: simulation completed.
+Fertilizer Log: Day 6: Skipped fertilizing Rose at grid (7,4). Days since last fertilized: 2. Frequency: 3
+Fertilizer Log: Day 6: Skipped fertilizing Banana at grid (8,4). Days since last fertilized: 1. Frequency: 3
+Day Log: Added plant: Banana at grid (4,3)
+Day Log: Day 7: simulation started.
+Day Log: Weather: Rainy
+Insect Log: Day 7: Pest attack by Caterpillar on plant: Rose at grid (7,4)
+Cleaner Log: Day 7 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Rose at grid (7,4)
+Cleaner Log: Day 7: Cleaner visiting plant: Rose at grid (7,4)
+Insect Log: Day 7: Beneficial insect Butterfly found near plant: Banana at grid (8,4)
+Insect Log: Day 7: Pest attack by Caterpillar on plant: Banana at grid (4,3)
+Watering Log: Day 7: Plants watered.
+Day Log: Day 7: Plants received natural watering from rain.
+Day Log: Day 7: simulation completed.
+Fertilizer Log: Day 7: Applied Organic Fertilizer to plant: Rose at grid (7,4)
+Fertilizer Log: Day 7: Skipped fertilizing Banana at grid (8,4). Days since last fertilized: 2. Frequency: 3
+Fertilizer Log: Day 7: Skipped fertilizing Banana at grid (4,3). Days since last fertilized: 1. Frequency: 3
+Day Log: Added plant: Mango at grid (0,3)
+Day Log: Day 8: simulation started.
+Day Log: Weather: Cold
+Insect Log: Day 8: Pest attack by Spider on plant: Rose at grid (7,4)
+Insect Log: Day 8: Pest attack by Spider on plant: Banana at grid (8,4)
+Insect Log: Day 8: Beneficial insect Butterfly found near plant: Banana at grid (4,3)
+Insect Log: Day 8: Beneficial insect Butterfly found near plant: Mango at grid (0,3)
+Watering Log: Day 8: Plants watered.
+Heating Log: Day 8: Heating system activated.
+Day Log: Day 8: simulation completed.
+Fertilizer Log: Day 8: Skipped fertilizing Rose at grid (7,4). Days since last fertilized: 1. Frequency: 3
+Fertilizer Log: Day 8: Applied Chemical Fertilizer to plant: Banana at grid (8,4)
+Fertilizer Log: Day 8: Skipped fertilizing Banana at grid (4,3). Days since last fertilized: 2. Frequency: 3
+Fertilizer Log: Day 8: Skipped fertilizing Mango at grid (0,3). Days since last fertilized: 1. Frequency: 6
+Day Log: Day 9: simulation started.
+Day Log: Weather: Cloudy
+Insect Log: Day 9: Pest attack by Spider on plant: Rose at grid (7,4)
+Cleaner Log: Day 9 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Rose at grid (7,4)
+Cleaner Log: Day 9: Cleaner visiting plant: Rose at grid (7,4)
+Insect Log: Day 9: Beneficial insect Butterfly found near plant: Banana at grid (8,4)
+Insect Log: Day 9: Beneficial insect Beetle found near plant: Banana at grid (4,3)
+Insect Log: Day 9: Pest attack by Caterpillar on plant: Mango at grid (0,3)
+Watering Log: Day 9: Plants watered.
+Day Log: Day 9: Cloudy weather observed. No special actions taken.
+Day Log: Day 9: simulation completed.
+Fertilizer Log: Day 9: Skipped fertilizing Rose at grid (7,4). Days since last fertilized: 2. Frequency: 3
+Fertilizer Log: Day 9: Skipped fertilizing Banana at grid (8,4). Days since last fertilized: 1. Frequency: 3
+Fertilizer Log: Day 9: Applied Organic Fertilizer to plant: Banana at grid (4,3)
+Fertilizer Log: Day 9: No stock available for Organic Fertilizer
+Day Log: Day 10: simulation started.
+Day Log: Weather: Windy
+Insect Log: Day 10: Beneficial insect Butterfly found near plant: Rose at grid (7,4)
+Insect Log: Day 10: Pest attack by Caterpillar on plant: Banana at grid (8,4)
+Cleaner Log: Day 10 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Banana at grid (8,4)
+Cleaner Log: Day 10: Cleaner visiting plant: Banana at grid (8,4)
+Insect Log: Day 10: Beneficial insect Beetle found near plant: Banana at grid (4,3)
+Insect Log: Day 10: Pest attack by Caterpillar on plant: Mango at grid (0,3)
+Cleaner Log: Day 10 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@386a732f cleaning pests near plant: Mango at grid (0,3)
+Cleaner Log: Day 10: Cleaner visiting plant: Mango at grid (0,3)
+Watering Log: Day 10: Plants watered.
+Day Log: Day 10: Wind protection shield activated.
+Day Log: Day 10: simulation completed.
+Fertilizer Log: Day 10: Applied Chemical Fertilizer to plant: Rose at grid (7,4)
+Fertilizer Log: Day 10: No stock available for Organic Fertilizer
+Fertilizer Log: Day 10: Skipped fertilizing Banana at grid (4,3). Days since last fertilized: 1. Frequency: 3
+Fertilizer Log: Day 10: Skipped fertilizing Mango at grid (0,3). Days since last fertilized: 2. Frequency: 6
+Day Log: Day 11: simulation started.
+Day Log: Weather: Sunny
+Insect Log: Day 11: Pest attack by Spider on plant: Rose at grid (7,4)
+Insect Log: Day 11: Beneficial insect Butterfly found near plant: Banana at grid (8,4)
+Insect Log: Day 11: Beneficial insect Butterfly found near plant: Banana at grid (4,3)
+Insect Log: Day 11: Beneficial insect Beetle found near plant: Mango at grid (0,3)
+Watering Log: Day 11: Plants watered.
+Day Log: Day 11: Sprinklers activated for dry sunny weather.
+Day Log: Day 11: simulation completed.
+Fertilizer Log: Day 11: Skipped fertilizing Rose at grid (7,4). Days since last fertilized: 1. Frequency: 3
+Fertilizer Log: Day 11: No stock available for Organic Fertilizer
+Fertilizer Log: Day 11: No stock available for Organic Fertilizer
+Fertilizer Log: Day 11: Skipped fertilizing Mango at grid (0,3). Days since last fertilized: 3. Frequency: 6
+Day Log: Day 12: simulation started.
+Day Log: Weather: Cloudy
+Insect Log: Day 12: Pest attack by Spider on plant: Rose at grid (7,4)
+Cleaner Log: Day 12 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Rose at grid (7,4)
+Cleaner Log: Day 12: Cleaner visiting plant: Rose at grid (7,4)
+Insect Log: Day 12: Beneficial insect Butterfly found near plant: Banana at grid (8,4)
+Insect Log: Day 12: Pest attack by Caterpillar on plant: Banana at grid (4,3)
+Cleaner Log: Day 12 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@386a732f cleaning pests near plant: Banana at grid (4,3)
+Cleaner Log: Day 12: Cleaner visiting plant: Banana at grid (4,3)
+Insect Log: Day 12: Beneficial insect Butterfly found near plant: Mango at grid (0,3)
+Watering Log: Day 12: Plants watered.
+Day Log: Day 12: Cloudy weather observed. No special actions taken.
+Day Log: Day 12: simulation completed.
+Fertilizer Log: Day 12: No stock available for Organic Fertilizer
+Fertilizer Log: Day 12: No stock available for Organic Fertilizer
+Fertilizer Log: Day 12: Skipped fertilizing Banana at grid (4,3). Days since last fertilized: 2. Frequency: 3
+Fertilizer Log: Day 12: No stock available for Organic Fertilizer
+Day Log: Day 13: simulation started.
+Day Log: Weather: Sunny
+Insect Log: Day 13: Beneficial insect Beetle found near plant: Rose at grid (7,4)
+Insect Log: Day 13: Pest attack by Caterpillar on plant: Banana at grid (8,4)
+Insect Log: Day 13: Beneficial insect Butterfly found near plant: Banana at grid (4,3)
+Insect Log: Day 13: Beneficial insect Butterfly found near plant: Mango at grid (0,3)
+Watering Log: Day 13: Plants watered.
+Day Log: Day 13: Sprinklers activated for dry sunny weather.
+Day Log: Day 13: simulation completed.
+Fertilizer Log: Day 13: No stock available for Organic Fertilizer
+Fertilizer Log: Day 13: No stock available for Organic Fertilizer
+Fertilizer Log: Day 13: No stock available for Organic Fertilizer
+Fertilizer Log: Day 13: Skipped fertilizing Mango at grid (0,3). Days since last fertilized: 4. Frequency: 6
+Day Log: Added plant: Apple at grid (5,7)
+Day Log: Day 14: simulation started.
+Day Log: Weather: Rainy
+Insect Log: Day 14: Beneficial insect Beetle found near plant: Rose at grid (7,4)
+Insect Log: Day 14: Beneficial insect Butterfly found near plant: Banana at grid (8,4)
+Insect Log: Day 14: Pest attack by Spider on plant: Banana at grid (4,3)
+Insect Log: Day 14: Pest attack by Caterpillar on plant: Mango at grid (0,3)
+Insect Log: Day 14: Pest attack by Caterpillar on plant: Apple at grid (5,7)
+Watering Log: Day 14: Plants watered.
+Day Log: Day 14: Plants received natural watering from rain.
+Day Log: Day 14: simulation completed.
+Fertilizer Log: Day 14: No stock available for Organic Fertilizer
+Fertilizer Log: Day 14: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 14: No stock available for Organic Fertilizer
+Fertilizer Log: Day 14: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 14: No stock available for Chemical Fertilizer
+Day Log: Day 15: simulation started.
+Day Log: Weather: Windy
+Insect Log: Day 15: Beneficial insect Butterfly found near plant: Rose at grid (7,4)
+Insect Log: Day 15: Pest attack by Caterpillar on plant: Banana at grid (8,4)
+Cleaner Log: Day 15 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Banana at grid (8,4)
+Cleaner Log: Day 15: Cleaner visiting plant: Banana at grid (8,4)
+Insect Log: Day 15: Beneficial insect Butterfly found near plant: Banana at grid (4,3)
+Insect Log: Day 15: Pest attack by Spider on plant: Mango at grid (0,3)
+Cleaner Log: Day 15 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@386a732f cleaning pests near plant: Mango at grid (0,3)
+Cleaner Log: Day 15: Cleaner visiting plant: Mango at grid (0,3)
+Insect Log: Day 15: Beneficial insect Butterfly found near plant: Apple at grid (5,7)
+Watering Log: Day 15: Plants watered.
+Day Log: Day 15: Wind protection shield activated.
+Day Log: Day 15: simulation completed.
+Fertilizer Log: Day 15: No stock available for Organic Fertilizer
+Fertilizer Log: Day 15: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 15: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 15: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 15: No stock available for Chemical Fertilizer
+Day Log: Day 16: simulation started.
+Day Log: Weather: Snowy
+Insect Log: Day 16: Beneficial insect Butterfly found near plant: Rose at grid (7,4)
+Insect Log: Day 16: Beneficial insect Butterfly found near plant: Banana at grid (8,4)
+Insect Log: Day 16: Pest attack by Caterpillar on plant: Banana at grid (4,3)
+Cleaner Log: Day 16 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Banana at grid (4,3)
+Cleaner Log: Day 16: Cleaner visiting plant: Banana at grid (4,3)
+Insect Log: Day 16: Beneficial insect Butterfly found near plant: Mango at grid (0,3)
+Insect Log: Day 16: Beneficial insect Beetle found near plant: Apple at grid (5,7)
+Watering Log: Day 16: Plants watered.
+Heating Log: Day 16: Heating system activated.
+Day Log: Day 16: simulation completed.
+Fertilizer Log: Day 16: No stock available for Organic Fertilizer
+Fertilizer Log: Day 16: No stock available for Organic Fertilizer
+Fertilizer Log: Day 16: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 16: No stock available for Organic Fertilizer
+Fertilizer Log: Day 16: No stock available for Chemical Fertilizer
+Day Log: Day 17: simulation started.
+Day Log: Weather: Rainy
+Insect Log: Day 17: Beneficial insect Beetle found near plant: Rose at grid (7,4)
+Insect Log: Day 17: Pest attack by Spider on plant: Banana at grid (8,4)
+Insect Log: Day 17: Pest attack by Caterpillar on plant: Banana at grid (4,3)
+Insect Log: Day 17: Pest attack by Caterpillar on plant: Mango at grid (0,3)
+Insect Log: Day 17: Pest attack by Caterpillar on plant: Apple at grid (5,7)
+Cleaner Log: Day 17 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Apple at grid (5,7)
+Cleaner Log: Day 17: Cleaner visiting plant: Apple at grid (5,7)
+Watering Log: Day 17: Plants watered.
+Day Log: Day 17: Plants received natural watering from rain.
+Day Log: Day 17: simulation completed.
+Fertilizer Log: Day 17: No stock available for Organic Fertilizer
+Fertilizer Log: Day 17: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 17: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 17: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 17: No stock available for Organic Fertilizer
+Day Log: Day 18: simulation started.
+Day Log: Weather: Cold
+Insect Log: Day 18: Beneficial insect Beetle found near plant: Rose at grid (7,4)
+Insect Log: Day 18: Beneficial insect Beetle found near plant: Banana at grid (8,4)
+Insect Log: Day 18: Beneficial insect Beetle found near plant: Banana at grid (4,3)
+Insect Log: Day 18: Beneficial insect Beetle found near plant: Mango at grid (0,3)
+Insect Log: Day 18: Beneficial insect Beetle found near plant: Apple at grid (5,7)
+Watering Log: Day 18: Plants watered.
+Heating Log: Day 18: Heating system activated.
+Day Log: Day 18: simulation completed.
+Fertilizer Log: Day 18: No stock available for Organic Fertilizer
+Fertilizer Log: Day 18: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 18: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 18: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 18: No stock available for Chemical Fertilizer
+Day Log: Day 19: simulation started.
+Day Log: Weather: Rainy
+Insect Log: Day 19: Pest attack by Spider on plant: Rose at grid (7,4)
+Insect Log: Day 19: Beneficial insect Beetle found near plant: Banana at grid (8,4)
+Insect Log: Day 19: Beneficial insect Beetle found near plant: Banana at grid (4,3)
+Insect Log: Day 19: Beneficial insect Beetle found near plant: Mango at grid (0,3)
+Insect Log: Day 19: Beneficial insect Butterfly found near plant: Apple at grid (5,7)
+Watering Log: Day 19: Plants watered.
+Day Log: Day 19: Plants received natural watering from rain.
+Day Log: Day 19: simulation completed.
+Fertilizer Log: Day 19: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 19: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 19: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 19: No stock available for Organic Fertilizer
+Fertilizer Log: Day 19: No stock available for Organic Fertilizer
+Day Log: Added plant: Banana at grid (3,2)
+Day Log: Added plant: Banana at grid (2,2)
+Day Log: Added plant: Mango at grid (2,1)
+Day Log: Added plant: Rose at grid (6,6)
+Day Log: Day 20: simulation started.
+Day Log: Weather: Sunny
+Insect Log: Day 20: Pest attack by Caterpillar on plant: Rose at grid (7,4)
+Cleaner Log: Day 20 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Rose at grid (7,4)
+Cleaner Log: Day 20: Cleaner visiting plant: Rose at grid (7,4)
+Insect Log: Day 20: Beneficial insect Butterfly found near plant: Banana at grid (8,4)
+Insect Log: Day 20: Pest attack by Spider on plant: Banana at grid (4,3)
+Cleaner Log: Day 20 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@386a732f cleaning pests near plant: Banana at grid (4,3)
+Cleaner Log: Day 20: Cleaner visiting plant: Banana at grid (4,3)
+Insect Log: Day 20: Pest attack by Spider on plant: Mango at grid (0,3)
+Cleaner Log: Day 20 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174eca07 cleaning pests near plant: Mango at grid (0,3)
+Cleaner Log: Day 20: Cleaner visiting plant: Mango at grid (0,3)
+Insect Log: Day 20: Pest attack by Caterpillar on plant: Apple at grid (5,7)
+Insect Log: Day 20: Pest attack by Caterpillar on plant: Banana at grid (3,2)
+Insect Log: Day 20: Beneficial insect Beetle found near plant: Banana at grid (2,2)
+Insect Log: Day 20: Pest attack by Spider on plant: Mango at grid (2,1)
+Insect Log: Day 20: Pest attack by Caterpillar on plant: Rose at grid (6,6)
+Watering Log: Day 20: Plants watered.
+Day Log: Day 20: Sprinklers activated for dry sunny weather.
+Day Log: Day 20: simulation completed.
+Fertilizer Log: Day 20: No stock available for Organic Fertilizer
+Fertilizer Log: Day 20: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 20: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 20: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 20: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 20: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 20: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 20: No stock available for Organic Fertilizer
+Fertilizer Log: Day 20: No stock available for Organic Fertilizer
+Day Log: Day 21: simulation started.
+Day Log: Weather: Sunny
+Insect Log: Day 21: Pest attack by Caterpillar on plant: Rose at grid (7,4)
+Insect Log: Day 21: Beneficial insect Beetle found near plant: Banana at grid (8,4)
+Insect Log: Day 21: Pest attack by Spider on plant: Banana at grid (4,3)
+Insect Log: Day 21: Pest attack by Spider on plant: Mango at grid (0,3)
+Insect Log: Day 21: Beneficial insect Butterfly found near plant: Apple at grid (5,7)
+Insect Log: Day 21: Pest attack by Spider on plant: Banana at grid (3,2)
+Cleaner Log: Day 21 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Banana at grid (3,2)
+Cleaner Log: Day 21: Cleaner visiting plant: Banana at grid (3,2)
+Insect Log: Day 21: Beneficial insect Butterfly found near plant: Banana at grid (2,2)
+Insect Log: Day 21: Beneficial insect Beetle found near plant: Mango at grid (2,1)
+Insect Log: Day 21: Beneficial insect Beetle found near plant: Rose at grid (6,6)
+Watering Log: Day 21: Plants watered.
+Day Log: Day 22: simulation started.
+Day Log: Weather: Cold
+Insect Log: Day 22: Beneficial insect Beetle found near plant: Rose at grid (7,4)
+Insect Log: Day 22: Beneficial insect Beetle found near plant: Banana at grid (8,4)
+Insect Log: Day 22: Beneficial insect Butterfly found near plant: Banana at grid (4,3)
+Insect Log: Day 22: Pest attack by Caterpillar on plant: Mango at grid (0,3)
+Cleaner Log: Day 22 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Mango at grid (0,3)
+Cleaner Log: Day 22: Cleaner visiting plant: Mango at grid (0,3)
+Insect Log: Day 22: Beneficial insect Butterfly found near plant: Apple at grid (5,7)
+Insect Log: Day 22: Pest attack by Spider on plant: Banana at grid (3,2)
+Insect Log: Day 22: Beneficial insect Butterfly found near plant: Banana at grid (2,2)
+Insect Log: Day 22: Beneficial insect Butterfly found near plant: Mango at grid (2,1)
+Insect Log: Day 22: Pest attack by Caterpillar on plant: Rose at grid (6,6)
+Cleaner Log: Day 22 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@386a732f cleaning pests near plant: Rose at grid (6,6)
+Cleaner Log: Day 22: Cleaner visiting plant: Rose at grid (6,6)
+Watering Log: Day 22: Plants watered.
+Day Log: Day 23: simulation started.
+Day Log: Weather: Snowy
+Insect Log: Day 23: Pest attack by Spider on plant: Rose at grid (7,4)
+Cleaner Log: Day 23 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Rose at grid (7,4)
+Cleaner Log: Day 23: Cleaner visiting plant: Rose at grid (7,4)
+Insect Log: Day 23: Beneficial insect Butterfly found near plant: Banana at grid (8,4)
+Insect Log: Day 23: Beneficial insect Beetle found near plant: Banana at grid (4,3)
+Insect Log: Day 23: Beneficial insect Butterfly found near plant: Mango at grid (0,3)
+Insect Log: Day 23: Beneficial insect Butterfly found near plant: Apple at grid (5,7)
+Insect Log: Day 23: Pest attack by Spider on plant: Banana at grid (3,2)
+Cleaner Log: Day 23 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@386a732f cleaning pests near plant: Banana at grid (3,2)
+Cleaner Log: Day 23: Cleaner visiting plant: Banana at grid (3,2)
+Insect Log: Day 23: Pest attack by Caterpillar on plant: Banana at grid (2,2)
+Insect Log: Day 23: Beneficial insect Butterfly found near plant: Mango at grid (2,1)
+Insect Log: Day 23: Beneficial insect Butterfly found near plant: Rose at grid (6,6)
+Watering Log: Day 23: Plants watered.
+Day Log: Day 24: simulation started.
+Day Log: Weather: Snowy
+Insect Log: Day 24: Beneficial insect Beetle found near plant: Rose at grid (7,4)
+Insect Log: Day 24: Beneficial insect Beetle found near plant: Banana at grid (8,4)
+Insect Log: Day 24: Beneficial insect Butterfly found near plant: Banana at grid (4,3)
+Insect Log: Day 24: Pest attack by Caterpillar on plant: Mango at grid (0,3)
+Insect Log: Day 24: Beneficial insect Butterfly found near plant: Apple at grid (5,7)
+Insect Log: Day 24: Beneficial insect Butterfly found near plant: Banana at grid (3,2)
+Insect Log: Day 24: Pest attack by Caterpillar on plant: Banana at grid (2,2)
+Cleaner Log: Day 24 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Banana at grid (2,2)
+Cleaner Log: Day 24: Cleaner visiting plant: Banana at grid (2,2)
+Insect Log: Day 24: Beneficial insect Butterfly found near plant: Mango at grid (2,1)
+Insect Log: Day 24: Pest attack by Caterpillar on plant: Rose at grid (6,6)
+Watering Log: Day 24: Plants watered.
+Heating Log: Day 24: Heating system activated.
+Day Log: Day 24: simulation completed.
+Fertilizer Log: Day 24: No stock available for Organic Fertilizer
+Fertilizer Log: Day 24: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 24: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 24: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 24: No stock available for Organic Fertilizer
+Fertilizer Log: Day 24: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 24: No stock available for Organic Fertilizer
+Fertilizer Log: Day 24: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 24: No stock available for Organic Fertilizer
+Day Log: Day 25: simulation started.
+Day Log: Weather: Rainy
+Insect Log: Day 25: Beneficial insect Butterfly found near plant: Rose at grid (7,4)
+Insect Log: Day 25: Beneficial insect Butterfly found near plant: Banana at grid (8,4)
+Insect Log: Day 25: Beneficial insect Butterfly found near plant: Banana at grid (4,3)
+Insect Log: Day 25: Pest attack by Caterpillar on plant: Mango at grid (0,3)
+Cleaner Log: Day 25 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Mango at grid (0,3)
+Cleaner Log: Day 25: Cleaner visiting plant: Mango at grid (0,3)
+Insect Log: Day 25: Beneficial insect Beetle found near plant: Apple at grid (5,7)
+Insect Log: Day 25: Beneficial insect Beetle found near plant: Banana at grid (3,2)
+Insect Log: Day 25: Pest attack by Spider on plant: Banana at grid (2,2)
+Insect Log: Day 25: Pest attack by Caterpillar on plant: Mango at grid (2,1)
+Cleaner Log: Day 25 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@386a732f cleaning pests near plant: Mango at grid (2,1)
+Cleaner Log: Day 25: Cleaner visiting plant: Mango at grid (2,1)
+Insect Log: Day 25: Pest attack by Spider on plant: Rose at grid (6,6)
+Cleaner Log: Day 25 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174eca07 cleaning pests near plant: Rose at grid (6,6)
+Cleaner Log: Day 25: Cleaner visiting plant: Rose at grid (6,6)
+Watering Log: Day 25: Plants watered.
+Day Log: Day 26: simulation started.
+Day Log: Weather: Windy
+Insect Log: Day 26: Beneficial insect Butterfly found near plant: Rose at grid (7,4)
+Insect Log: Day 26: Pest attack by Caterpillar on plant: Banana at grid (4,3)
+Cleaner Log: Day 26 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Banana at grid (4,3)
+Cleaner Log: Day 26: Cleaner visiting plant: Banana at grid (4,3)
+Insect Log: Day 26: Pest attack by Caterpillar on plant: Mango at grid (0,3)
+Insect Log: Day 26: Pest attack by Caterpillar on plant: Apple at grid (5,7)
+Cleaner Log: Day 26 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@386a732f cleaning pests near plant: Apple at grid (5,7)
+Cleaner Log: Day 26: Cleaner visiting plant: Apple at grid (5,7)
+Insect Log: Day 26: Beneficial insect Beetle found near plant: Banana at grid (3,2)
+Insect Log: Day 26: Beneficial insect Beetle found near plant: Banana at grid (2,2)
+Insect Log: Day 26: Pest attack by Caterpillar on plant: Mango at grid (2,1)
+Insect Log: Day 26: Pest attack by Spider on plant: Rose at grid (6,6)
+Watering Log: Day 26: Plants watered.
+Day Log: Day 26: Wind protection shield activated.
+Day Log: Day 26: simulation completed.
+Fertilizer Log: Day 26: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 26: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 26: No stock available for Organic Fertilizer
+Fertilizer Log: Day 26: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 26: No stock available for Organic Fertilizer
+Fertilizer Log: Day 26: No stock available for Organic Fertilizer
+Fertilizer Log: Day 26: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 26: No stock available for Organic Fertilizer
+Day Log: Day 27: simulation started.
+Day Log: Weather: Rainy
+Insect Log: Day 27: Pest attack by Caterpillar on plant: Rose at grid (7,4)
+Insect Log: Day 27: Beneficial insect Beetle found near plant: Banana at grid (4,3)
+Insect Log: Day 27: Pest attack by Caterpillar on plant: Mango at grid (0,3)
+Cleaner Log: Day 27 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Mango at grid (0,3)
+Cleaner Log: Day 27: Cleaner visiting plant: Mango at grid (0,3)
+Insect Log: Day 27: Pest attack by Spider on plant: Apple at grid (5,7)
+Insect Log: Day 27: Beneficial insect Beetle found near plant: Banana at grid (3,2)
+Insect Log: Day 27: Pest attack by Caterpillar on plant: Banana at grid (2,2)
+Cleaner Log: Day 27 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@386a732f cleaning pests near plant: Banana at grid (2,2)
+Cleaner Log: Day 27: Cleaner visiting plant: Banana at grid (2,2)
+Insect Log: Day 27: Pest attack by Spider on plant: Mango at grid (2,1)
+Cleaner Log: Day 27 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174eca07 cleaning pests near plant: Mango at grid (2,1)
+Cleaner Log: Day 27: Cleaner visiting plant: Mango at grid (2,1)
+Insect Log: Day 27: Pest attack by Spider on plant: Rose at grid (6,6)
+Watering Log: Day 27: Plants watered.
+Day Log: Day 28: simulation started.
+Day Log: Weather: Cold
+Insect Log: Day 28: Beneficial insect Beetle found near plant: Rose at grid (7,4)
+Insect Log: Day 28: Pest attack by Caterpillar on plant: Banana at grid (4,3)
+Insect Log: Day 28: Pest attack by Spider on plant: Mango at grid (0,3)
+Insect Log: Day 28: Beneficial insect Butterfly found near plant: Apple at grid (5,7)
+Insect Log: Day 28: Beneficial insect Butterfly found near plant: Banana at grid (3,2)
+Insect Log: Day 28: Beneficial insect Beetle found near plant: Banana at grid (2,2)
+Insect Log: Day 28: Beneficial insect Butterfly found near plant: Mango at grid (2,1)
+Insect Log: Day 28: Beneficial insect Butterfly found near plant: Rose at grid (6,6)
+Cleaner Log: Day 28 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Rose at grid (6,6)
+Cleaner Log: Day 28: Cleaner visiting plant: Rose at grid (6,6)
+Watering Log: Day 28: Plants watered.
+Day Log: Day 29: simulation started.
+Day Log: Weather: Cloudy
+Insect Log: Day 29: Beneficial insect Beetle found near plant: Rose at grid (7,4)
+Insect Log: Day 29: Beneficial insect Beetle found near plant: Banana at grid (4,3)
+Insect Log: Day 29: Beneficial insect Butterfly found near plant: Mango at grid (0,3)
+Insect Log: Day 29: Pest attack by Spider on plant: Apple at grid (5,7)
+Cleaner Log: Day 29 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@174e5bba cleaning pests near plant: Apple at grid (5,7)
+Cleaner Log: Day 29: Cleaner visiting plant: Apple at grid (5,7)
+Insect Log: Day 29: Beneficial insect Beetle found near plant: Banana at grid (3,2)
+Insect Log: Day 29: Beneficial insect Beetle found near plant: Banana at grid (2,2)
+Insect Log: Day 29: Pest attack by Caterpillar on plant: Mango at grid (2,1)
+Insect Log: Day 29: Pest attack by Spider on plant: Rose at grid (6,6)
+Watering Log: Day 29: Plants watered.
+Day Log: Added plant: Mango at grid (2,2)
+Day Log: Added plant: Rose at grid (6,6)
+Day Log: Added plant: Apple at grid (2,0)
+Day Log: Added plant: Apple at grid (6,4)
+Day Log: Added plant: Banana at grid (3,0)
+Day Log: Added plant: Rose at grid (8,7)
+Day Log: Added plant: Banana at grid (1,8)
+Day Log: Added plant: Banana at grid (4,6)
+Day Log: Added plant: Banana at grid (5,1)
+Day Log: Added plant: Banana at grid (6,4)
+Day Log: Added plant: Banana at grid (3,1)
+Day Log: Added plant: Banana at grid (7,4)
+Day Log: Added plant: Rose at grid (2,1)
+Day Log: Added plant: Rose at grid (1,2)
+Day Log: Added plant: Rose at grid (6,5)
+Day Log: Added plant: Rose at grid (5,4)
+Day Log: Added plant: Rose at grid (2,3)
+Day Log: Added plant: Rose at grid (2,6)
+Day Log: Added plant: Rose at grid (0,2)
+Day Log: Added plant: Rose at grid (5,6)
+Day Log: Added plant: Rose at grid (5,8)
+Day Log: Added plant: Rose at grid (8,0)
+Day Log: Added plant: Rose at grid (0,3)
+Day Log: Added plant: Rose at grid (8,6)
+Day Log: Added plant: Rose at grid (6,3)
+Day Log: Added plant: Apple at grid (2,0)
+Day Log: Added plant: Apple at grid (4,5)
+Day Log: Added plant: Apple at grid (1,6)
+Day Log: Added plant: Apple at grid (1,0)
+Day Log: Added plant: Apple at grid (6,0)
+Day Log: Added plant: Apple at grid (4,2)
+Day Log: Added plant: Apple at grid (2,2)
+Day Log: Added plant: Apple at grid (5,7)
+Day Log: Added plant: Apple at grid (0,0)
+Day Log: Added plant: Apple at grid (0,8)
+Day Log: Added plant: Apple at grid (7,7)
+Day Log: Added plant: Mango at grid (5,3)
+Day Log: Added plant: Mango at grid (0,1)
+Day Log: Added plant: Mango at grid (6,1)
+Day Log: Added plant: Mango at grid (1,4)
+Day Log: Added plant: Mango at grid (3,8)
+Day Log: Added plant: Mango at grid (1,3)
+Day Log: Added plant: Mango at grid (2,5)
+Day Log: Added plant: Banana at grid (2,4)
+Day Log: Added plant: Banana at grid (4,8)
+Day Log: Added plant: Banana at grid (6,2)
+Day Log: Added plant: Banana at grid (3,7)
+Day Log: Added plant: Mango at grid (3,4)
+Day Log: Added plant: Mango at grid (7,5)
+Day Log: Added plant: Mango at grid (2,7)
+Day Log: Added plant: Banana at grid (6,8)
+Day Log: Added plant: Banana at grid (7,3)
+Day Log: Added plant: Banana at grid (3,5)
+Day Log: Added plant: Mango at grid (0,4)
+Day Log: Added plant: Rose at grid (1,5)
+Day Log: Added plant: Rose at grid (7,6)
+Day Log: Added plant: Rose at grid (7,2)
+Day Log: Added plant: Apple at grid (1,7)
+Day Log: Added plant: Apple at grid (8,2)
+Day Log: Added plant: Apple at grid (8,4)
+Day Log: Added plant: Mango at grid (0,7)
+Day Log: Added plant: Banana at grid (3,3)
+Day Log: Added plant: Rose at grid (0,5)
+Day Log: Added plant: Mango at grid (3,6)
+Day Log: Added plant: Mango at grid (7,8)
+Day Log: Added plant: Apple at grid (0,6)
+Day Log: Added plant: Mango at grid (5,5)
+Day Log: Added plant: Mango at grid (8,5)
+Day Log: Added plant: Mango at grid (4,4)
+Day Log: Added plant: Mango at grid (8,8)
+Day Log: Added plant: Mango at grid (4,7)
+Day Log: Added plant: Mango at grid (2,8)
+Day Log: Added plant: Mango at grid (4,1)
+Day Log: Added plant: Mango at grid (5,2)
+Day Log: Added plant: Mango at grid (4,0)
+Day Log: Added plant: Banana at grid (6,7)
+Day Log: Added plant: Banana at grid (3,2)
+Day Log: Added plant: Banana at grid (7,1)
+Day Log: Added plant: Banana at grid (1,1)
+Day Log: Added plant: Banana at grid (7,0)
+Day Log: Added plant: Banana at grid (4,3)
+Day Log: Added plant: Banana at grid (6,6)
+Day Log: Added plant: Rose at grid (8,1)
+Day Log: Added plant: Rose at grid (8,3)
+Day Log: Added plant: Rose at grid (5,0)
+Day Log: Added plant: Mango at grid (1,5)
+Day Log: Added plant: Mango at grid (7,2)
+Day Log: Added plant: Mango at grid (1,6)
+Day Log: Added plant: Mango at grid (2,0)
+Day Log: Added plant: Mango at grid (6,4)
+Day Log: Added plant: Mango at grid (5,2)
+Day Log: Day 1: simulation started.
+Day Log: Weather: Cloudy
+Insect Log: Day 1: Pest attack by Spider on plant: Mango at grid (1,5)
+Insect Log: Day 1: Beneficial insect Butterfly found near plant: Mango at grid (7,2)
+Insect Log: Day 1: Beneficial insect Beetle found near plant: Mango at grid (1,6)
+Insect Log: Day 1: Pest attack by Spider on plant: Mango at grid (2,0)
+Insect Log: Day 1: Pest attack by Spider on plant: Mango at grid (6,4)
+Insect Log: Day 1: Pest attack by Spider on plant: Mango at grid (5,2)
+Watering Log: Day 1: Plants watered.
+Day Log: Day 1: Cloudy weather observed. No special actions taken.
+Day Log: Day 1: simulation completed.
+Fertilizer Log: Day 1: Skipped fertilizing Mango at grid (1,5). Days since last fertilized: 1. Frequency: 6
+Fertilizer Log: Day 1: Skipped fertilizing Mango at grid (7,2). Days since last fertilized: 1. Frequency: 6
+Fertilizer Log: Day 1: Skipped fertilizing Mango at grid (1,6). Days since last fertilized: 1. Frequency: 6
+Fertilizer Log: Day 1: Skipped fertilizing Mango at grid (2,0). Days since last fertilized: 1. Frequency: 6
+Fertilizer Log: Day 1: Skipped fertilizing Mango at grid (6,4). Days since last fertilized: 1. Frequency: 6
+Fertilizer Log: Day 1: Skipped fertilizing Mango at grid (5,2). Days since last fertilized: 1. Frequency: 6
+Day Log: Day 2: simulation started.
+Day Log: Weather: Sunny
+Insect Log: Day 2: Pest attack by Spider on plant: Mango at grid (1,5)
+Cleaner Log: Day 2 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (1,5)
+Cleaner Log: Day 2: Cleaner visiting plant: Mango at grid (1,5)
+Insect Log: Day 2: Beneficial insect Beetle found near plant: Mango at grid (7,2)
+Insect Log: Day 2: Beneficial insect Beetle found near plant: Mango at grid (1,6)
+Insect Log: Day 2: Beneficial insect Beetle found near plant: Mango at grid (2,0)
+Insect Log: Day 2: Pest attack by Spider on plant: Mango at grid (6,4)
+Cleaner Log: Day 2 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Mango at grid (6,4)
+Cleaner Log: Day 2: Cleaner visiting plant: Mango at grid (6,4)
+Insect Log: Day 2: Beneficial insect Butterfly found near plant: Mango at grid (5,2)
+Watering Log: Day 2: Plants watered.
+Day Log: Day 2: Sprinklers activated for dry sunny weather.
+Day Log: Day 2: simulation completed.
+Fertilizer Log: Day 2: Skipped fertilizing Mango at grid (1,5). Days since last fertilized: 2. Frequency: 6
+Fertilizer Log: Day 2: Skipped fertilizing Mango at grid (7,2). Days since last fertilized: 2. Frequency: 6
+Fertilizer Log: Day 2: Skipped fertilizing Mango at grid (1,6). Days since last fertilized: 2. Frequency: 6
+Fertilizer Log: Day 2: Skipped fertilizing Mango at grid (2,0). Days since last fertilized: 2. Frequency: 6
+Fertilizer Log: Day 2: Skipped fertilizing Mango at grid (6,4). Days since last fertilized: 2. Frequency: 6
+Fertilizer Log: Day 2: Skipped fertilizing Mango at grid (5,2). Days since last fertilized: 2. Frequency: 6
+Day Log: Day 3: simulation started.
+Day Log: Weather: Snowy
+Insect Log: Day 3: Beneficial insect Butterfly found near plant: Mango at grid (1,5)
+Insect Log: Day 3: Beneficial insect Butterfly found near plant: Mango at grid (7,2)
+Insect Log: Day 3: Pest attack by Caterpillar on plant: Mango at grid (1,6)
+Insect Log: Day 3: Beneficial insect Beetle found near plant: Mango at grid (2,0)
+Insect Log: Day 3: Beneficial insect Beetle found near plant: Mango at grid (6,4)
+Insect Log: Day 3: Pest attack by Caterpillar on plant: Mango at grid (5,2)
+Cleaner Log: Day 3 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (5,2)
+Cleaner Log: Day 3: Cleaner visiting plant: Mango at grid (5,2)
+Watering Log: Day 3: Plants watered.
+Heating Log: Day 3: Heating system activated.
+Day Log: Day 3: simulation completed.
+Fertilizer Log: Day 3: Skipped fertilizing Mango at grid (1,5). Days since last fertilized: 3. Frequency: 6
+Fertilizer Log: Day 3: Skipped fertilizing Mango at grid (7,2). Days since last fertilized: 3. Frequency: 6
+Fertilizer Log: Day 3: Skipped fertilizing Mango at grid (1,6). Days since last fertilized: 3. Frequency: 6
+Fertilizer Log: Day 3: Skipped fertilizing Mango at grid (2,0). Days since last fertilized: 3. Frequency: 6
+Fertilizer Log: Day 3: Skipped fertilizing Mango at grid (6,4). Days since last fertilized: 3. Frequency: 6
+Fertilizer Log: Day 3: Skipped fertilizing Mango at grid (5,2). Days since last fertilized: 3. Frequency: 6
+Day Log: Day 4: simulation started.
+Day Log: Weather: Cold
+Insect Log: Day 4: Beneficial insect Butterfly found near plant: Mango at grid (1,5)
+Insect Log: Day 4: Beneficial insect Beetle found near plant: Mango at grid (7,2)
+Insect Log: Day 4: Pest attack by Caterpillar on plant: Mango at grid (1,6)
+Cleaner Log: Day 4 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (1,6)
+Cleaner Log: Day 4: Cleaner visiting plant: Mango at grid (1,6)
+Insect Log: Day 4: Beneficial insect Beetle found near plant: Mango at grid (2,0)
+Insect Log: Day 4: Beneficial insect Beetle found near plant: Mango at grid (6,4)
+Insect Log: Day 4: Beneficial insect Beetle found near plant: Mango at grid (5,2)
+Watering Log: Day 4: Plants watered.
+Heating Log: Day 4: Heating system activated.
+Day Log: Day 4: simulation completed.
+Fertilizer Log: Day 4: Skipped fertilizing Mango at grid (1,5). Days since last fertilized: 4. Frequency: 6
+Fertilizer Log: Day 4: No stock available for Organic Fertilizer
+Fertilizer Log: Day 4: No stock available for Organic Fertilizer
+Fertilizer Log: Day 4: No stock available for Organic Fertilizer
+Fertilizer Log: Day 4: Skipped fertilizing Mango at grid (6,4). Days since last fertilized: 4. Frequency: 6
+Fertilizer Log: Day 4: No stock available for Chemical Fertilizer
+Day Log: Day 5: simulation started.
+Day Log: Weather: Rainy
+Insect Log: Day 5: Beneficial insect Beetle found near plant: Mango at grid (1,5)
+Insect Log: Day 5: Pest attack by Caterpillar on plant: Mango at grid (7,2)
+Insect Log: Day 5: Beneficial insect Butterfly found near plant: Mango at grid (1,6)
+Insect Log: Day 5: Pest attack by Spider on plant: Mango at grid (2,0)
+Cleaner Log: Day 5 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (2,0)
+Cleaner Log: Day 5: Cleaner visiting plant: Mango at grid (2,0)
+Insect Log: Day 5: Pest attack by Spider on plant: Mango at grid (6,4)
+Insect Log: Day 5: Beneficial insect Beetle found near plant: Mango at grid (5,2)
+Watering Log: Day 5: Plants watered.
+Day Log: Day 5: Plants received natural watering from rain.
+Day Log: Day 5: simulation completed.
+Fertilizer Log: Day 5: No stock available for Organic Fertilizer
+Fertilizer Log: Day 5: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 5: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 5: No stock available for Organic Fertilizer
+Fertilizer Log: Day 5: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 5: No stock available for Chemical Fertilizer
+Day Log: Day 6: simulation started.
+Day Log: Weather: Cold
+Insect Log: Day 6: Pest attack by Spider on plant: Mango at grid (1,5)
+Insect Log: Day 6: Beneficial insect Butterfly found near plant: Mango at grid (7,2)
+Insect Log: Day 6: Beneficial insect Butterfly found near plant: Mango at grid (1,6)
+Insect Log: Day 6: Pest attack by Spider on plant: Mango at grid (2,0)
+Insect Log: Day 6: Pest attack by Spider on plant: Mango at grid (6,4)
+Cleaner Log: Day 6 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (6,4)
+Cleaner Log: Day 6: Cleaner visiting plant: Mango at grid (6,4)
+Insect Log: Day 6: Beneficial insect Beetle found near plant: Mango at grid (5,2)
+Watering Log: Day 6: Plants watered.
+Heating Log: Day 6: Heating system activated.
+Day Log: Day 6: simulation completed.
+Fertilizer Log: Day 6: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 6: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 6: No stock available for Organic Fertilizer
+Fertilizer Log: Day 6: No stock available for Organic Fertilizer
+Fertilizer Log: Day 6: No stock available for Organic Fertilizer
+Fertilizer Log: Day 6: No stock available for Organic Fertilizer
+Day Log: Day 7: simulation started.
+Day Log: Weather: Sunny
+Insect Log: Day 7: Pest attack by Caterpillar on plant: Mango at grid (1,5)
+Cleaner Log: Day 7 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (1,5)
+Cleaner Log: Day 7: Cleaner visiting plant: Mango at grid (1,5)
+Insect Log: Day 7: Beneficial insect Butterfly found near plant: Mango at grid (7,2)
+Insect Log: Day 7: Beneficial insect Butterfly found near plant: Mango at grid (1,6)
+Insect Log: Day 7: Beneficial insect Beetle found near plant: Mango at grid (2,0)
+Insect Log: Day 7: Beneficial insect Butterfly found near plant: Mango at grid (6,4)
+Insect Log: Day 7: Pest attack by Spider on plant: Mango at grid (5,2)
+Watering Log: Day 7: Plants watered.
+Day Log: Day 7: Sprinklers activated for dry sunny weather.
+Day Log: Day 7: simulation completed.
+Fertilizer Log: Day 7: No stock available for Organic Fertilizer
+Fertilizer Log: Day 7: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 7: No stock available for Organic Fertilizer
+Fertilizer Log: Day 7: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 7: No stock available for Organic Fertilizer
+Fertilizer Log: Day 7: No stock available for Chemical Fertilizer
+Day Log: Day 8: simulation started.
+Day Log: Weather: Rainy
+Insect Log: Day 8: Pest attack by Caterpillar on plant: Mango at grid (1,5)
+Insect Log: Day 8: Beneficial insect Butterfly found near plant: Mango at grid (7,2)
+Insect Log: Day 8: Pest attack by Spider on plant: Mango at grid (1,6)
+Insect Log: Day 8: Beneficial insect Beetle found near plant: Mango at grid (2,0)
+Insect Log: Day 8: Beneficial insect Butterfly found near plant: Mango at grid (6,4)
+Insect Log: Day 8: Pest attack by Caterpillar on plant: Mango at grid (5,2)
+Cleaner Log: Day 8 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (5,2)
+Cleaner Log: Day 8: Cleaner visiting plant: Mango at grid (5,2)
+Watering Log: Day 8: Plants watered.
+Day Log: Day 8: Plants received natural watering from rain.
+Day Log: Day 8: simulation completed.
+Fertilizer Log: Day 8: No stock available for Organic Fertilizer
+Fertilizer Log: Day 8: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 8: No stock available for Organic Fertilizer
+Fertilizer Log: Day 8: No stock available for Organic Fertilizer
+Fertilizer Log: Day 8: No stock available for Organic Fertilizer
+Fertilizer Log: Day 8: No stock available for Organic Fertilizer
+Day Log: Day 9: simulation started.
+Day Log: Weather: Snowy
+Insect Log: Day 9: Beneficial insect Butterfly found near plant: Mango at grid (1,5)
+Insect Log: Day 9: Pest attack by Spider on plant: Mango at grid (7,2)
+Cleaner Log: Day 9 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (7,2)
+Cleaner Log: Day 9: Cleaner visiting plant: Mango at grid (7,2)
+Insect Log: Day 9: Pest attack by Spider on plant: Mango at grid (1,6)
+Cleaner Log: Day 9 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Mango at grid (1,6)
+Cleaner Log: Day 9: Cleaner visiting plant: Mango at grid (1,6)
+Insect Log: Day 9: Beneficial insect Butterfly found near plant: Mango at grid (2,0)
+Insect Log: Day 9: Pest attack by Caterpillar on plant: Mango at grid (6,4)
+Insect Log: Day 9: Beneficial insect Butterfly found near plant: Mango at grid (5,2)
+Watering Log: Day 9: Plants watered.
+Heating Log: Day 9: Heating system activated.
+Day Log: Day 9: simulation completed.
+Fertilizer Log: Day 9: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 9: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 9: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 9: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 9: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 9: No stock available for Chemical Fertilizer
+Day Log: Day 10: simulation started.
+Day Log: Weather: Windy
+Insect Log: Day 10: Pest attack by Caterpillar on plant: Mango at grid (1,5)
+Cleaner Log: Day 10 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (1,5)
+Cleaner Log: Day 10: Cleaner visiting plant: Mango at grid (1,5)
+Insect Log: Day 10: Pest attack by Caterpillar on plant: Mango at grid (7,2)
+Insect Log: Day 10: Beneficial insect Butterfly found near plant: Mango at grid (1,6)
+Insect Log: Day 10: Beneficial insect Butterfly found near plant: Mango at grid (2,0)
+Insect Log: Day 10: Pest attack by Spider on plant: Mango at grid (6,4)
+Cleaner Log: Day 10 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Mango at grid (6,4)
+Cleaner Log: Day 10: Cleaner visiting plant: Mango at grid (6,4)
+Insect Log: Day 10: Beneficial insect Butterfly found near plant: Mango at grid (5,2)
+Watering Log: Day 10: Plants watered.
+Day Log: Day 10: Wind protection shield activated.
+Day Log: Day 10: simulation completed.
+Fertilizer Log: Day 10: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 10: No stock available for Organic Fertilizer
+Fertilizer Log: Day 10: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 10: No stock available for Organic Fertilizer
+Fertilizer Log: Day 10: No stock available for Organic Fertilizer
+Fertilizer Log: Day 10: No stock available for Chemical Fertilizer
+Day Log: Day 11: simulation started.
+Day Log: Weather: Cold
+Insect Log: Day 11: Pest attack by Spider on plant: Mango at grid (1,5)
+Insect Log: Day 11: Beneficial insect Beetle found near plant: Mango at grid (7,2)
+Insect Log: Day 11: Pest attack by Spider on plant: Mango at grid (1,6)
+Insect Log: Day 11: Beneficial insect Beetle found near plant: Mango at grid (2,0)
+Insect Log: Day 11: Pest attack by Spider on plant: Mango at grid (6,4)
+Insect Log: Day 11: Pest attack by Caterpillar on plant: Mango at grid (5,2)
+Watering Log: Day 11: Plants watered.
+Heating Log: Day 11: Heating system activated.
+Day Log: Day 11: simulation completed.
+Fertilizer Log: Day 11: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 11: No stock available for Organic Fertilizer
+Fertilizer Log: Day 11: No stock available for Organic Fertilizer
+Fertilizer Log: Day 11: No stock available for Organic Fertilizer
+Fertilizer Log: Day 11: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 11: No stock available for Chemical Fertilizer
+Day Log: Day 12: simulation started.
+Day Log: Weather: Cloudy
+Insect Log: Day 12: Pest attack by Spider on plant: Mango at grid (1,5)
+Cleaner Log: Day 12 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (1,5)
+Cleaner Log: Day 12: Cleaner visiting plant: Mango at grid (1,5)
+Insect Log: Day 12: Beneficial insect Beetle found near plant: Mango at grid (7,2)
+Insect Log: Day 12: Pest attack by Spider on plant: Mango at grid (1,6)
+Cleaner Log: Day 12 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Mango at grid (1,6)
+Cleaner Log: Day 12: Cleaner visiting plant: Mango at grid (1,6)
+Insect Log: Day 12: Pest attack by Spider on plant: Mango at grid (2,0)
+Cleaner Log: Day 12 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@104ea995 cleaning pests near plant: Mango at grid (2,0)
+Cleaner Log: Day 12: Cleaner visiting plant: Mango at grid (2,0)
+Insect Log: Day 12: Pest attack by Spider on plant: Mango at grid (6,4)
+Insect Log: Day 12: Pest attack by Spider on plant: Mango at grid (5,2)
+Watering Log: Day 12: Plants watered.
+Day Log: Day 12: Cloudy weather observed. No special actions taken.
+Day Log: Day 12: simulation completed.
+Cleaner Log: Day 12 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (6,4)
+Cleaner Log: Day 12: Cleaner visiting plant: Mango at grid (6,4)
+Cleaner Log: Day 12 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Mango at grid (5,2)
+Cleaner Log: Day 12: Cleaner visiting plant: Mango at grid (5,2)
+Fertilizer Log: Day 12: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 12: No stock available for Organic Fertilizer
+Fertilizer Log: Day 12: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 12: No stock available for Organic Fertilizer
+Fertilizer Log: Day 12: No stock available for Organic Fertilizer
+Fertilizer Log: Day 12: No stock available for Organic Fertilizer
+Day Log: Day 13: simulation started.
+Day Log: Weather: Cold
+Insect Log: Day 13: Pest attack by Spider on plant: Mango at grid (1,5)
+Insect Log: Day 13: Pest attack by Caterpillar on plant: Mango at grid (7,2)
+Cleaner Log: Day 13 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (7,2)
+Cleaner Log: Day 13: Cleaner visiting plant: Mango at grid (7,2)
+Insect Log: Day 13: Beneficial insect Beetle found near plant: Mango at grid (1,6)
+Insect Log: Day 13: Pest attack by Caterpillar on plant: Mango at grid (2,0)
+Insect Log: Day 13: Pest attack by Spider on plant: Mango at grid (6,4)
+Insect Log: Day 13: Beneficial insect Butterfly found near plant: Mango at grid (5,2)
+Watering Log: Day 13: Plants watered.
+Heating Log: Day 13: Heating system activated.
+Day Log: Day 13: simulation completed.
+Fertilizer Log: Day 13: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 13: No stock available for Organic Fertilizer
+Fertilizer Log: Day 13: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 13: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 13: No stock available for Organic Fertilizer
+Fertilizer Log: Day 13: No stock available for Chemical Fertilizer
+Day Log: Day 14: simulation started.
+Day Log: Weather: Sunny
+Insect Log: Day 14: Beneficial insect Butterfly found near plant: Mango at grid (1,5)
+Insect Log: Day 14: Beneficial insect Butterfly found near plant: Mango at grid (7,2)
+Insect Log: Day 14: Beneficial insect Butterfly found near plant: Mango at grid (1,6)
+Insect Log: Day 14: Pest attack by Caterpillar on plant: Mango at grid (2,0)
+Cleaner Log: Day 14 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (2,0)
+Cleaner Log: Day 14: Cleaner visiting plant: Mango at grid (2,0)
+Insect Log: Day 14: Pest attack by Spider on plant: Mango at grid (6,4)
+Cleaner Log: Day 14 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Mango at grid (6,4)
+Cleaner Log: Day 14: Cleaner visiting plant: Mango at grid (6,4)
+Insect Log: Day 14: Beneficial insect Beetle found near plant: Mango at grid (5,2)
+Watering Log: Day 14: Plants watered.
+Day Log: Day 14: Sprinklers activated for dry sunny weather.
+Day Log: Day 14: simulation completed.
+Fertilizer Log: Day 14: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 14: No stock available for Organic Fertilizer
+Fertilizer Log: Day 14: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 14: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 14: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 14: No stock available for Organic Fertilizer
+Day Log: Added plant: Banana at grid (3,6)
+Day Log: Day 15: simulation started.
+Day Log: Weather: Sunny
+Insect Log: Day 15: Pest attack by Caterpillar on plant: Mango at grid (1,5)
+Cleaner Log: Day 15 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (1,5)
+Cleaner Log: Day 15: Cleaner visiting plant: Mango at grid (1,5)
+Insect Log: Day 15: Beneficial insect Butterfly found near plant: Mango at grid (7,2)
+Insect Log: Day 15: Beneficial insect Beetle found near plant: Mango at grid (1,6)
+Insect Log: Day 15: Pest attack by Spider on plant: Mango at grid (2,0)
+Insect Log: Day 15: Beneficial insect Beetle found near plant: Mango at grid (6,4)
+Insect Log: Day 15: Beneficial insect Beetle found near plant: Mango at grid (5,2)
+Insect Log: Day 15: Beneficial insect Beetle found near plant: Banana at grid (3,6)
+Watering Log: Day 15: Plants watered.
+Day Log: Day 15: Sprinklers activated for dry sunny weather.
+Day Log: Day 15: simulation completed.
+Fertilizer Log: Day 15: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 15: No stock available for Organic Fertilizer
+Fertilizer Log: Day 15: No stock available for Organic Fertilizer
+Fertilizer Log: Day 15: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 15: No stock available for Organic Fertilizer
+Fertilizer Log: Day 15: No stock available for Organic Fertilizer
+Fertilizer Log: Day 15: No stock available for Chemical Fertilizer
+Day Log: Added plant: Rose at grid (3,4)
+Day Log: Added plant: Rose at grid (4,3)
+Day Log: Day 16: simulation started.
+Day Log: Weather: Cloudy
+Insect Log: Day 16: Pest attack by Caterpillar on plant: Mango at grid (1,5)
+Insect Log: Day 16: Beneficial insect Butterfly found near plant: Mango at grid (7,2)
+Insect Log: Day 16: Pest attack by Caterpillar on plant: Mango at grid (1,6)
+Insect Log: Day 16: Pest attack by Caterpillar on plant: Mango at grid (2,0)
+Cleaner Log: Day 16 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (2,0)
+Cleaner Log: Day 16: Cleaner visiting plant: Mango at grid (2,0)
+Insect Log: Day 16: Pest attack by Spider on plant: Mango at grid (6,4)
+Insect Log: Day 16: Pest attack by Caterpillar on plant: Mango at grid (5,2)
+Insect Log: Day 16: Pest attack by Spider on plant: Banana at grid (3,6)
+Insect Log: Day 16: Beneficial insect Butterfly found near plant: Rose at grid (3,4)
+Insect Log: Day 16: Beneficial insect Butterfly found near plant: Rose at grid (4,3)
+Watering Log: Day 16: Plants watered.
+Day Log: Day 16: Cloudy weather observed. No special actions taken.
+Day Log: Day 16: simulation completed.
+Fertilizer Log: Day 16: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 16: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 16: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 16: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 16: No stock available for Organic Fertilizer
+Fertilizer Log: Day 16: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 16: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 16: No stock available for Organic Fertilizer
+Fertilizer Log: Day 16: No stock available for Chemical Fertilizer
+Day Log: Added plant: Rose at grid (4,8)
+Day Log: Added plant: Rose at grid (1,3)
+Day Log: Added plant: Apple at grid (2,2)
+Day Log: Added plant: Apple at grid (4,5)
+Day Log: Day 17: simulation started.
+Day Log: Weather: Snowy
+Insect Log: Day 17: Beneficial insect Butterfly found near plant: Mango at grid (1,5)
+Insect Log: Day 17: Pest attack by Caterpillar on plant: Mango at grid (7,2)
+Insect Log: Day 17: Pest attack by Caterpillar on plant: Mango at grid (1,6)
+Cleaner Log: Day 17 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (1,6)
+Cleaner Log: Day 17: Cleaner visiting plant: Mango at grid (1,6)
+Insect Log: Day 17: Beneficial insect Butterfly found near plant: Mango at grid (2,0)
+Insect Log: Day 17: Pest attack by Caterpillar on plant: Mango at grid (6,4)
+Cleaner Log: Day 17 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Mango at grid (6,4)
+Cleaner Log: Day 17: Cleaner visiting plant: Mango at grid (6,4)
+Insect Log: Day 17: Beneficial insect Beetle found near plant: Mango at grid (5,2)
+Insect Log: Day 17: Beneficial insect Beetle found near plant: Banana at grid (3,6)
+Insect Log: Day 17: Pest attack by Caterpillar on plant: Rose at grid (3,4)
+Insect Log: Day 17: Beneficial insect Beetle found near plant: Rose at grid (4,3)
+Insect Log: Day 17: Beneficial insect Beetle found near plant: Rose at grid (4,8)
+Insect Log: Day 17: Beneficial insect Butterfly found near plant: Rose at grid (1,3)
+Insect Log: Day 17: Beneficial insect Beetle found near plant: Apple at grid (2,2)
+Insect Log: Day 17: Pest attack by Spider on plant: Apple at grid (4,5)
+Watering Log: Day 17: Plants watered.
+Heating Log: Day 17: Heating system activated.
+Day Log: Day 17: simulation completed.
+Fertilizer Log: Day 17: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 17: No stock available for Organic Fertilizer
+Fertilizer Log: Day 17: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 17: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 17: No stock available for Organic Fertilizer
+Fertilizer Log: Day 17: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 17: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 17: No stock available for Organic Fertilizer
+Fertilizer Log: Day 17: No stock available for Organic Fertilizer
+Fertilizer Log: Day 17: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 17: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 17: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 17: No stock available for Chemical Fertilizer
+Day Log: Added plant: Apple at grid (7,0)
+Day Log: Added plant: Apple at grid (3,1)
+Day Log: Added plant: Apple at grid (0,7)
+Day Log: Added plant: Apple at grid (1,7)
+Day Log: Day 18: simulation started.
+Day Log: Weather: Cold
+Insect Log: Day 18: Beneficial insect Butterfly found near plant: Mango at grid (1,5)
+Insect Log: Day 18: Beneficial insect Beetle found near plant: Mango at grid (7,2)
+Insect Log: Day 18: Pest attack by Spider on plant: Mango at grid (1,6)
+Insect Log: Day 18: Beneficial insect Beetle found near plant: Mango at grid (2,0)
+Insect Log: Day 18: Pest attack by Caterpillar on plant: Mango at grid (6,4)
+Insect Log: Day 18: Pest attack by Spider on plant: Mango at grid (5,2)
+Cleaner Log: Day 18 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (5,2)
+Cleaner Log: Day 18: Cleaner visiting plant: Mango at grid (5,2)
+Insect Log: Day 18: Pest attack by Caterpillar on plant: Banana at grid (3,6)
+Cleaner Log: Day 18 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Banana at grid (3,6)
+Cleaner Log: Day 18: Cleaner visiting plant: Banana at grid (3,6)
+Insect Log: Day 18: Pest attack by Caterpillar on plant: Rose at grid (3,4)
+Cleaner Log: Day 18 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@104ea995 cleaning pests near plant: Rose at grid (3,4)
+Cleaner Log: Day 18: Cleaner visiting plant: Rose at grid (3,4)
+Insect Log: Day 18: Beneficial insect Beetle found near plant: Rose at grid (4,3)
+Insect Log: Day 18: Pest attack by Spider on plant: Rose at grid (4,8)
+Insect Log: Day 18: Beneficial insect Beetle found near plant: Rose at grid (1,3)
+Insect Log: Day 18: Beneficial insect Butterfly found near plant: Apple at grid (2,2)
+Insect Log: Day 18: Beneficial insect Butterfly found near plant: Apple at grid (4,5)
+Insect Log: Day 18: Beneficial insect Beetle found near plant: Apple at grid (7,0)
+Insect Log: Day 18: Pest attack by Spider on plant: Apple at grid (3,1)
+Insect Log: Day 18: Pest attack by Spider on plant: Apple at grid (0,7)
+Insect Log: Day 18: Pest attack by Spider on plant: Apple at grid (1,7)
+Watering Log: Day 18: Plants watered.
+Heating Log: Day 18: Heating system activated.
+Day Log: Day 18: simulation completed.
+Fertilizer Log: Day 18: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 18: No stock available for Organic Fertilizer
+Fertilizer Log: Day 18: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 18: No stock available for Organic Fertilizer
+Fertilizer Log: Day 18: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 18: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 18: No stock available for Organic Fertilizer
+Fertilizer Log: Day 18: No stock available for Organic Fertilizer
+Fertilizer Log: Day 18: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 18: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 18: No stock available for Organic Fertilizer
+Fertilizer Log: Day 18: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 18: No stock available for Organic Fertilizer
+Fertilizer Log: Day 18: No stock available for Organic Fertilizer
+Fertilizer Log: Day 18: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 18: No stock available for Organic Fertilizer
+Fertilizer Log: Day 18: No stock available for Chemical Fertilizer
+Day Log: Day 19: simulation started.
+Day Log: Weather: Rainy
+Insect Log: Day 19: Pest attack by Spider on plant: Mango at grid (1,5)
+Cleaner Log: Day 19 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (1,5)
+Cleaner Log: Day 19: Cleaner visiting plant: Mango at grid (1,5)
+Insect Log: Day 19: Beneficial insect Beetle found near plant: Mango at grid (7,2)
+Insect Log: Day 19: Beneficial insect Butterfly found near plant: Mango at grid (1,6)
+Insect Log: Day 19: Beneficial insect Butterfly found near plant: Mango at grid (2,0)
+Insect Log: Day 19: Pest attack by Spider on plant: Mango at grid (6,4)
+Cleaner Log: Day 19 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Mango at grid (6,4)
+Cleaner Log: Day 19: Cleaner visiting plant: Mango at grid (6,4)
+Insect Log: Day 19: Beneficial insect Beetle found near plant: Mango at grid (5,2)
+Insect Log: Day 19: Beneficial insect Butterfly found near plant: Banana at grid (3,6)
+Insect Log: Day 19: Pest attack by Spider on plant: Rose at grid (3,4)
+Insect Log: Day 19: Pest attack by Spider on plant: Rose at grid (4,3)
+Insect Log: Day 19: Pest attack by Spider on plant: Rose at grid (4,8)
+Cleaner Log: Day 19 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@104ea995 cleaning pests near plant: Rose at grid (4,8)
+Cleaner Log: Day 19: Cleaner visiting plant: Rose at grid (4,8)
+Insect Log: Day 19: Pest attack by Caterpillar on plant: Rose at grid (1,3)
+Insect Log: Day 19: Pest attack by Spider on plant: Apple at grid (2,2)
+Insect Log: Day 19: Pest attack by Caterpillar on plant: Apple at grid (4,5)
+Insect Log: Day 19: Pest attack by Caterpillar on plant: Apple at grid (7,0)
+Insect Log: Day 19: Pest attack by Spider on plant: Apple at grid (3,1)
+Insect Log: Day 19: Pest attack by Caterpillar on plant: Apple at grid (0,7)
+Insect Log: Day 19: Pest attack by Spider on plant: Apple at grid (1,7)
+Watering Log: Day 19: Plants watered.
+Day Log: Day 19: Plants received natural watering from rain.
+Day Log: Day 19: simulation completed.
+Cleaner Log: Day 19 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Apple at grid (4,5)
+Cleaner Log: Day 19: Cleaner visiting plant: Apple at grid (4,5)
+Cleaner Log: Day 19 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Apple at grid (3,1)
+Cleaner Log: Day 19: Cleaner visiting plant: Apple at grid (3,1)
+Cleaner Log: Day 19 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@104ea995 cleaning pests near plant: Apple at grid (0,7)
+Cleaner Log: Day 19: Cleaner visiting plant: Apple at grid (0,7)
+Fertilizer Log: Day 19: No stock available for Organic Fertilizer
+Fertilizer Log: Day 19: No stock available for Organic Fertilizer
+Fertilizer Log: Day 19: No stock available for Organic Fertilizer
+Fertilizer Log: Day 19: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 19: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 19: No stock available for Organic Fertilizer
+Fertilizer Log: Day 19: No stock available for Organic Fertilizer
+Fertilizer Log: Day 19: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 19: No stock available for Organic Fertilizer
+Fertilizer Log: Day 19: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 19: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 19: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 19: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 19: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 19: No stock available for Organic Fertilizer
+Fertilizer Log: Day 19: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 19: No stock available for Chemical Fertilizer
+Day Log: Day 20: simulation started.
+Day Log: Weather: Sunny
+Insect Log: Day 20: Pest attack by Spider on plant: Mango at grid (1,5)
+Insect Log: Day 20: Beneficial insect Butterfly found near plant: Mango at grid (7,2)
+Insect Log: Day 20: Pest attack by Spider on plant: Mango at grid (1,6)
+Cleaner Log: Day 20 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (1,6)
+Cleaner Log: Day 20: Cleaner visiting plant: Mango at grid (1,6)
+Insect Log: Day 20: Beneficial insect Butterfly found near plant: Mango at grid (2,0)
+Insect Log: Day 20: Pest attack by Spider on plant: Mango at grid (6,4)
+Insect Log: Day 20: Pest attack by Spider on plant: Mango at grid (5,2)
+Insect Log: Day 20: Beneficial insect Butterfly found near plant: Banana at grid (3,6)
+Insect Log: Day 20: Pest attack by Spider on plant: Rose at grid (3,4)
+Cleaner Log: Day 20 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Rose at grid (3,4)
+Cleaner Log: Day 20: Cleaner visiting plant: Rose at grid (3,4)
+Insect Log: Day 20: Beneficial insect Beetle found near plant: Rose at grid (4,3)
+Insect Log: Day 20: Beneficial insect Beetle found near plant: Rose at grid (4,8)
+Insect Log: Day 20: Beneficial insect Butterfly found near plant: Rose at grid (1,3)
+Insect Log: Day 20: Beneficial insect Butterfly found near plant: Apple at grid (2,2)
+Insect Log: Day 20: Pest attack by Caterpillar on plant: Apple at grid (4,5)
+Insect Log: Day 20: Pest attack by Caterpillar on plant: Apple at grid (7,0)
+Cleaner Log: Day 20 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@104ea995 cleaning pests near plant: Apple at grid (7,0)
+Cleaner Log: Day 20: Cleaner visiting plant: Apple at grid (7,0)
+Insect Log: Day 20: Pest attack by Caterpillar on plant: Apple at grid (3,1)
+Insect Log: Day 20: Beneficial insect Butterfly found near plant: Apple at grid (0,7)
+Insect Log: Day 20: Pest attack by Spider on plant: Apple at grid (1,7)
+Watering Log: Day 20: Plants watered.
+Day Log: Day 20: Sprinklers activated for dry sunny weather.
+Day Log: Day 20: simulation completed.
+Cleaner Log: Day 20 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Apple at grid (1,7)
+Cleaner Log: Day 20: Cleaner visiting plant: Apple at grid (1,7)
+Fertilizer Log: Day 20: No stock available for Organic Fertilizer
+Fertilizer Log: Day 20: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 20: No stock available for Organic Fertilizer
+Fertilizer Log: Day 20: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 20: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 20: No stock available for Organic Fertilizer
+Fertilizer Log: Day 20: No stock available for Organic Fertilizer
+Fertilizer Log: Day 20: No stock available for Organic Fertilizer
+Fertilizer Log: Day 20: No stock available for Organic Fertilizer
+Fertilizer Log: Day 20: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 20: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 20: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 20: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 20: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 20: No stock available for Organic Fertilizer
+Fertilizer Log: Day 20: No stock available for Organic Fertilizer
+Fertilizer Log: Day 20: No stock available for Organic Fertilizer
+Day Log: Day 21: simulation started.
+Day Log: Weather: Rainy
+Insect Log: Day 21: Pest attack by Caterpillar on plant: Mango at grid (1,5)
+Cleaner Log: Day 21 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (1,5)
+Cleaner Log: Day 21: Cleaner visiting plant: Mango at grid (1,5)
+Insect Log: Day 21: Beneficial insect Beetle found near plant: Mango at grid (7,2)
+Insect Log: Day 21: Pest attack by Caterpillar on plant: Mango at grid (1,6)
+Insect Log: Day 21: Pest attack by Spider on plant: Mango at grid (2,0)
+Insect Log: Day 21: Pest attack by Caterpillar on plant: Mango at grid (6,4)
+Cleaner Log: Day 21 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Mango at grid (6,4)
+Cleaner Log: Day 21: Cleaner visiting plant: Mango at grid (6,4)
+Insect Log: Day 21: Beneficial insect Beetle found near plant: Mango at grid (5,2)
+Insect Log: Day 21: Pest attack by Caterpillar on plant: Banana at grid (3,6)
+Insect Log: Day 21: Beneficial insect Butterfly found near plant: Rose at grid (3,4)
+Insect Log: Day 21: Pest attack by Spider on plant: Rose at grid (4,3)
+Cleaner Log: Day 21 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@104ea995 cleaning pests near plant: Rose at grid (4,3)
+Cleaner Log: Day 21: Cleaner visiting plant: Rose at grid (4,3)
+Insect Log: Day 21: Beneficial insect Beetle found near plant: Rose at grid (4,8)
+Insect Log: Day 21: Beneficial insect Butterfly found near plant: Rose at grid (1,3)
+Insect Log: Day 21: Beneficial insect Beetle found near plant: Apple at grid (2,2)
+Insect Log: Day 21: Pest attack by Caterpillar on plant: Apple at grid (4,5)
+Insect Log: Day 21: Pest attack by Caterpillar on plant: Apple at grid (7,0)
+Insect Log: Day 21: Beneficial insect Butterfly found near plant: Apple at grid (3,1)
+Insect Log: Day 21: Pest attack by Spider on plant: Apple at grid (0,7)
+Insect Log: Day 21: Beneficial insect Butterfly found near plant: Apple at grid (1,7)
+Watering Log: Day 21: Plants watered.
+Day Log: Day 21: Plants received natural watering from rain.
+Day Log: Day 21: simulation completed.
+Cleaner Log: Day 21 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Apple at grid (4,5)
+Cleaner Log: Day 21: Cleaner visiting plant: Apple at grid (4,5)
+Fertilizer Log: Day 21: No stock available for Organic Fertilizer
+Fertilizer Log: Day 21: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 21: No stock available for Organic Fertilizer
+Fertilizer Log: Day 21: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 21: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 21: No stock available for Organic Fertilizer
+Fertilizer Log: Day 21: No stock available for Organic Fertilizer
+Fertilizer Log: Day 21: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 21: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 21: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 21: No stock available for Organic Fertilizer
+Fertilizer Log: Day 21: No stock available for Organic Fertilizer
+Fertilizer Log: Day 21: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 21: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 21: No stock available for Organic Fertilizer
+Fertilizer Log: Day 21: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 21: No stock available for Chemical Fertilizer
+Day Log: Day 22: simulation started.
+Day Log: Weather: Cold
+Insect Log: Day 22: Pest attack by Caterpillar on plant: Mango at grid (1,5)
+Insect Log: Day 22: Pest attack by Caterpillar on plant: Mango at grid (7,2)
+Cleaner Log: Day 22 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (7,2)
+Cleaner Log: Day 22: Cleaner visiting plant: Mango at grid (7,2)
+Insect Log: Day 22: Pest attack by Caterpillar on plant: Mango at grid (1,6)
+Cleaner Log: Day 22 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Mango at grid (1,6)
+Cleaner Log: Day 22: Cleaner visiting plant: Mango at grid (1,6)
+Insect Log: Day 22: Pest attack by Caterpillar on plant: Mango at grid (2,0)
+Cleaner Log: Day 22 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@104ea995 cleaning pests near plant: Mango at grid (2,0)
+Cleaner Log: Day 22: Cleaner visiting plant: Mango at grid (2,0)
+Insect Log: Day 22: Pest attack by Spider on plant: Mango at grid (6,4)
+Insect Log: Day 22: Beneficial insect Beetle found near plant: Mango at grid (5,2)
+Insect Log: Day 22: Pest attack by Caterpillar on plant: Banana at grid (3,6)
+Insect Log: Day 22: Beneficial insect Beetle found near plant: Rose at grid (3,4)
+Insect Log: Day 22: Beneficial insect Butterfly found near plant: Rose at grid (4,3)
+Insect Log: Day 22: Beneficial insect Beetle found near plant: Rose at grid (4,8)
+Insect Log: Day 22: Pest attack by Spider on plant: Rose at grid (1,3)
+Insect Log: Day 22: Pest attack by Spider on plant: Apple at grid (2,2)
+Insect Log: Day 22: Pest attack by Caterpillar on plant: Apple at grid (4,5)
+Insect Log: Day 22: Beneficial insect Butterfly found near plant: Apple at grid (7,0)
+Insect Log: Day 22: Beneficial insect Beetle found near plant: Apple at grid (3,1)
+Insect Log: Day 22: Pest attack by Caterpillar on plant: Apple at grid (0,7)
+Insect Log: Day 22: Pest attack by Spider on plant: Apple at grid (1,7)
+Watering Log: Day 22: Plants watered.
+Heating Log: Day 22: Heating system activated.
+Day Log: Day 22: simulation completed.
+Cleaner Log: Day 22 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Banana at grid (3,6)
+Cleaner Log: Day 22: Cleaner visiting plant: Banana at grid (3,6)
+Cleaner Log: Day 22 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Rose at grid (1,3)
+Cleaner Log: Day 22: Cleaner visiting plant: Rose at grid (1,3)
+Cleaner Log: Day 22 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@104ea995 cleaning pests near plant: Apple at grid (2,2)
+Cleaner Log: Day 22: Cleaner visiting plant: Apple at grid (2,2)
+Fertilizer Log: Day 22: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 22: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 22: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 22: No stock available for Organic Fertilizer
+Fertilizer Log: Day 22: No stock available for Organic Fertilizer
+Fertilizer Log: Day 22: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 22: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 22: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 22: No stock available for Organic Fertilizer
+Fertilizer Log: Day 22: No stock available for Organic Fertilizer
+Fertilizer Log: Day 22: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 22: No stock available for Organic Fertilizer
+Fertilizer Log: Day 22: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 22: No stock available for Organic Fertilizer
+Fertilizer Log: Day 22: No stock available for Organic Fertilizer
+Fertilizer Log: Day 22: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 22: No stock available for Chemical Fertilizer
+Day Log: Day 23: simulation started.
+Day Log: Weather: Snowy
+Insect Log: Day 23: Pest attack by Spider on plant: Mango at grid (1,5)
+Cleaner Log: Day 23 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (1,5)
+Cleaner Log: Day 23: Cleaner visiting plant: Mango at grid (1,5)
+Insect Log: Day 23: Beneficial insect Butterfly found near plant: Mango at grid (7,2)
+Insect Log: Day 23: Beneficial insect Butterfly found near plant: Mango at grid (1,6)
+Insect Log: Day 23: Pest attack by Spider on plant: Mango at grid (2,0)
+Insect Log: Day 23: Pest attack by Spider on plant: Mango at grid (6,4)
+Cleaner Log: Day 23 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Mango at grid (6,4)
+Cleaner Log: Day 23: Cleaner visiting plant: Mango at grid (6,4)
+Insect Log: Day 23: Pest attack by Spider on plant: Mango at grid (5,2)
+Cleaner Log: Day 23 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@104ea995 cleaning pests near plant: Mango at grid (5,2)
+Cleaner Log: Day 23: Cleaner visiting plant: Mango at grid (5,2)
+Insect Log: Day 23: Beneficial insect Butterfly found near plant: Banana at grid (3,6)
+Insect Log: Day 23: Beneficial insect Butterfly found near plant: Rose at grid (3,4)
+Insect Log: Day 23: Pest attack by Caterpillar on plant: Rose at grid (4,3)
+Insect Log: Day 23: Beneficial insect Butterfly found near plant: Rose at grid (4,8)
+Insect Log: Day 23: Pest attack by Spider on plant: Rose at grid (1,3)
+Insect Log: Day 23: Beneficial insect Beetle found near plant: Apple at grid (2,2)
+Insect Log: Day 23: Beneficial insect Butterfly found near plant: Apple at grid (4,5)
+Insect Log: Day 23: Beneficial insect Butterfly found near plant: Apple at grid (7,0)
+Insect Log: Day 23: Beneficial insect Beetle found near plant: Apple at grid (3,1)
+Insect Log: Day 23: Beneficial insect Beetle found near plant: Apple at grid (0,7)
+Insect Log: Day 23: Beneficial insect Beetle found near plant: Apple at grid (1,7)
+Watering Log: Day 23: Plants watered.
+Heating Log: Day 23: Heating system activated.
+Day Log: Day 23: simulation completed.
+Cleaner Log: Day 23 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Apple at grid (0,7)
+Cleaner Log: Day 23: Cleaner visiting plant: Apple at grid (0,7)
+Cleaner Log: Day 23 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Apple at grid (1,7)
+Cleaner Log: Day 23: Cleaner visiting plant: Apple at grid (1,7)
+Fertilizer Log: Day 23: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 23: No stock available for Organic Fertilizer
+Fertilizer Log: Day 23: No stock available for Organic Fertilizer
+Fertilizer Log: Day 23: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 23: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 23: No stock available for Organic Fertilizer
+Fertilizer Log: Day 23: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 23: No stock available for Organic Fertilizer
+Fertilizer Log: Day 23: No stock available for Organic Fertilizer
+Fertilizer Log: Day 23: No stock available for Organic Fertilizer
+Fertilizer Log: Day 23: No stock available for Organic Fertilizer
+Fertilizer Log: Day 23: No stock available for Organic Fertilizer
+Fertilizer Log: Day 23: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 23: No stock available for Organic Fertilizer
+Fertilizer Log: Day 23: No stock available for Organic Fertilizer
+Fertilizer Log: Day 23: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 23: No stock available for Organic Fertilizer
+Day Log: Day 24: simulation started.
+Day Log: Weather: Cloudy
+Insect Log: Day 24: Pest attack by Spider on plant: Mango at grid (1,5)
+Insect Log: Day 24: Beneficial insect Beetle found near plant: Mango at grid (7,2)
+Insect Log: Day 24: Pest attack by Caterpillar on plant: Mango at grid (1,6)
+Insect Log: Day 24: Beneficial insect Beetle found near plant: Mango at grid (2,0)
+Insect Log: Day 24: Beneficial insect Butterfly found near plant: Mango at grid (6,4)
+Insect Log: Day 24: Pest attack by Spider on plant: Mango at grid (5,2)
+Insect Log: Day 24: Beneficial insect Beetle found near plant: Banana at grid (3,6)
+Insect Log: Day 24: Beneficial insect Butterfly found near plant: Rose at grid (3,4)
+Insect Log: Day 24: Pest attack by Spider on plant: Rose at grid (4,3)
+Cleaner Log: Day 24 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Rose at grid (4,3)
+Cleaner Log: Day 24: Cleaner visiting plant: Rose at grid (4,3)
+Insect Log: Day 24: Beneficial insect Beetle found near plant: Rose at grid (4,8)
+Insect Log: Day 24: Beneficial insect Beetle found near plant: Rose at grid (1,3)
+Insect Log: Day 24: Pest attack by Caterpillar on plant: Apple at grid (2,2)
+Insect Log: Day 24: Beneficial insect Beetle found near plant: Apple at grid (4,5)
+Insect Log: Day 24: Pest attack by Spider on plant: Apple at grid (7,0)
+Cleaner Log: Day 24 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Apple at grid (7,0)
+Cleaner Log: Day 24: Cleaner visiting plant: Apple at grid (7,0)
+Insect Log: Day 24: Beneficial insect Beetle found near plant: Apple at grid (3,1)
+Insect Log: Day 24: Beneficial insect Beetle found near plant: Apple at grid (0,7)
+Insect Log: Day 24: Pest attack by Spider on plant: Apple at grid (1,7)
+Watering Log: Day 24: Plants watered.
+Day Log: Day 24: Cloudy weather observed. No special actions taken.
+Day Log: Day 24: simulation completed.
+Fertilizer Log: Day 24: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 24: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 24: No stock available for Organic Fertilizer
+Fertilizer Log: Day 24: No stock available for Organic Fertilizer
+Fertilizer Log: Day 24: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 24: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 24: No stock available for Organic Fertilizer
+Fertilizer Log: Day 24: No stock available for Organic Fertilizer
+Fertilizer Log: Day 24: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 24: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 24: No stock available for Organic Fertilizer
+Fertilizer Log: Day 24: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 24: No stock available for Organic Fertilizer
+Fertilizer Log: Day 24: No stock available for Organic Fertilizer
+Fertilizer Log: Day 24: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 24: No stock available for Organic Fertilizer
+Fertilizer Log: Day 24: No stock available for Chemical Fertilizer
+Day Log: Day 25: simulation started.
+Day Log: Weather: Cold
+Insect Log: Day 25: Beneficial insect Butterfly found near plant: Mango at grid (1,5)
+Insect Log: Day 25: Pest attack by Caterpillar on plant: Mango at grid (7,2)
+Insect Log: Day 25: Pest attack by Spider on plant: Mango at grid (1,6)
+Cleaner Log: Day 25 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Mango at grid (1,6)
+Cleaner Log: Day 25: Cleaner visiting plant: Mango at grid (1,6)
+Insect Log: Day 25: Beneficial insect Butterfly found near plant: Mango at grid (2,0)
+Insect Log: Day 25: Beneficial insect Beetle found near plant: Mango at grid (6,4)
+Insect Log: Day 25: Beneficial insect Butterfly found near plant: Mango at grid (5,2)
+Insect Log: Day 25: Pest attack by Spider on plant: Banana at grid (3,6)
+Insect Log: Day 25: Beneficial insect Butterfly found near plant: Rose at grid (3,4)
+Insect Log: Day 25: Pest attack by Spider on plant: Rose at grid (4,3)
+Insect Log: Day 25: Pest attack by Spider on plant: Rose at grid (4,8)
+Insect Log: Day 25: Pest attack by Caterpillar on plant: Rose at grid (1,3)
+Cleaner Log: Day 25 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@401d42b6 cleaning pests near plant: Rose at grid (1,3)
+Cleaner Log: Day 25: Cleaner visiting plant: Rose at grid (1,3)
+Insect Log: Day 25: Pest attack by Caterpillar on plant: Apple at grid (2,2)
+Cleaner Log: Day 25 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@104ea995 cleaning pests near plant: Apple at grid (2,2)
+Cleaner Log: Day 25: Cleaner visiting plant: Apple at grid (2,2)
+Insect Log: Day 25: Pest attack by Spider on plant: Apple at grid (4,5)
+Insect Log: Day 25: Beneficial insect Beetle found near plant: Apple at grid (7,0)
+Insect Log: Day 25: Beneficial insect Beetle found near plant: Apple at grid (3,1)
+Insect Log: Day 25: Beneficial insect Butterfly found near plant: Apple at grid (0,7)
+Insect Log: Day 25: Beneficial insect Butterfly found near plant: Apple at grid (1,7)
+Watering Log: Day 25: Plants watered.
+Heating Log: Day 25: Heating system activated.
+Day Log: Day 25: simulation completed.
+Cleaner Log: Day 25 : Cleanercom.example.AutomatedGarden.Systems.Cleaner@70669543 cleaning pests near plant: Apple at grid (4,5)
+Cleaner Log: Day 25: Cleaner visiting plant: Apple at grid (4,5)
+Fertilizer Log: Day 25: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 25: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 25: No stock available for Organic Fertilizer
+Fertilizer Log: Day 25: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 25: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 25: No stock available for Organic Fertilizer
+Fertilizer Log: Day 25: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 25: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 25: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 25: No stock available for Organic Fertilizer
+Fertilizer Log: Day 25: No stock available for Organic Fertilizer
+Fertilizer Log: Day 25: No stock available for Organic Fertilizer
+Fertilizer Log: Day 25: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 25: No stock available for Organic Fertilizer
+Fertilizer Log: Day 25: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 25: No stock available for Chemical Fertilizer
+Fertilizer Log: Day 25: No stock available for Organic Fertilizer
+Day Log: Added plant: Rose at grid (8,4)
+Day Log: Added plant: Banana at grid (0,5)
+Day Log: Added plant: Rose at grid (8,5)
+Day Log: Added plant: Banana at grid (6,0)
+Day Log: Added plant: Mango at grid (1,7)
+Day Log: Added plant: Apple at grid (1,3)
+Day Log: Added plant: Rose at grid (2,8)
