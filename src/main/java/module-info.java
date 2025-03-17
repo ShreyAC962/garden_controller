@@ -1,6 +1,7 @@
 module com.example.AutomatedGarden {
-    exports com.example.AutomatedGarden.Model;
+    exports com.example.ComputerizedGarden.Model;
     requires javafx.controls;
+    requires java.logging;
     requires javafx.fxml;
     requires javafx.web;
     requires org.controlsfx.controls;
@@ -12,8 +13,8 @@ module com.example.AutomatedGarden {
     requires com.almasb.fxgl.all;
     requires javafx.graphics;
     requires java.desktop;
-    opens com.example.AutomatedGarden to javafx.graphics;
-    opens com.example.AutomatedGarden.Controllers to javafx.graphics;
-    opens com.example.AutomatedGarden.View to javafx.graphics;
+    opens com.example.ComputerizedGarden to javafx.graphics;
+    opens com.example.ComputerizedGarden.Controllers to javafx.graphics;
+    opens com.example.ComputerizedGarden.View to javafx.graphics;
 
 }
